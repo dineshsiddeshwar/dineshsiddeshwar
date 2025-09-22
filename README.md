@@ -109,26 +109,6 @@ I specialize in **Infrastructure as Code, CI/CD, Cloud Security, and Serverless 
 
 ---
 
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshsiddeshwar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsiddeshwar&theme=tokyonight" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsiddeshwar&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
-# 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/dineshsiddeshwar/dineshsiddeshwar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
 
 # 📫 Connect With Me  
 
